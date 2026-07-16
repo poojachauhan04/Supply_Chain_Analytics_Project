@@ -33,7 +33,9 @@ data, the project aims to convert raw data into meaningful insights.
 
 ## Phase 1: Data Preparation (Python)
 •	Cleaned and pre-processed the raw supply chain dataset.
+
 •	Feature Engineering: Created metrics like Total_Logistics_Cost, Stock_Utilization, Inventory_Turnover_Ratio, and Net_Profit.
+
 •	Handled missing values and ensured data consistency for SQL integration.
 
 ## Phase 2: Strategic Analysis (SQL)
@@ -58,21 +60,28 @@ to identify shortages or surpluses.
 ## Phase 3: Dashboard (Power BI)
 Finally, we built an interactive dashboard in Power BI to present insights visually.
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/536a10c7-8cd9-4362-bf66-16ab12730842" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/536a10c7-8cd9-4362-bf66-16ab12730842" width="1000" height="600" alt="Supply Chain Performance Dashboard" />
+</div>
+
 
 
 ## Business Recommendations
-➢ Cut Costs → Try to spend less on transport, storage, and daily operations so profit
+➢ **Cut Costs** → Try to spend less on transport, storage, and daily operations so profit
 goes up.
 
-➢ Deliver Faster → Reduce waiting time by speeding up order handling and shipping.
+➢ **Deliver Faster** → Reduce waiting time by speeding up order handling and shipping.
 Customers will be happier.
 
-➢ Use Warehouse Space Better → Don’t keep warehouses too empty or too full.
+➢ **Use Warehouse Space Better** → Don’t keep warehouses too empty or too full.
 Balance stock so space is used wisely.
 
-➢ Sell Stock Quickly → Move products faster with offers, bundles, or promotions. This
+➢ **Sell Stock Quickly** → Move products faster with offers, bundles, or promotions. This
 avoids goods sitting too long.
 
+➢ **Match Demand and Supply** → Keep enough stock to meet customer demand but
+avoid overstocking. Plan purchases carefully.
 
+➢ **Lower Risks** → Reduce damaged goods, returns, and stockouts by improving
+packaging, quality checks, and backup stock.
 
