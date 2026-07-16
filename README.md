@@ -61,9 +61,8 @@ to identify shortages or surpluses.
 Finally, we built an interactive dashboard in Power BI to present insights visually.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/536a10c7-8cd9-4362-bf66-16ab12730842" width="1000" height="600" alt="Supply Chain Performance Dashboard" />
+  <img src="https://github.com/user-attachments/assets/536a10c7-8cd9-4362-bf66-16ab12730842" width="1200" height="700" alt="Supply Chain Performance Dashboard" />
 </div>
-
 
 
 ## 💡 Business Recommendations
