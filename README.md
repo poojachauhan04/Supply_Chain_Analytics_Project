@@ -66,7 +66,8 @@ Finally, we built an interactive dashboard in Power BI to present insights visua
 
 
 
-## Business Recommendations
+## 💡 Business Recommendations
+
 ➢ **Cut Costs** → Try to spend less on transport, storage, and daily operations so profit
 goes up.
 
