@@ -58,16 +58,21 @@ to identify shortages or surpluses.
 ## Phase 3: Dashboard (Power BI)
 Finally, we built an interactive dashboard in Power BI to present insights visually.
 
-<img width="448" height="275" alt="image" src="https://github.com/user-attachments/assets/536a10c7-8cd9-4362-bf66-16ab12730842" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/536a10c7-8cd9-4362-bf66-16ab12730842" />
+
 
 ## Business Recommendations
 ➢ Cut Costs → Try to spend less on transport, storage, and daily operations so profit
 goes up.
+
 ➢ Deliver Faster → Reduce waiting time by speeding up order handling and shipping.
 Customers will be happier.
+
 ➢ Use Warehouse Space Better → Don’t keep warehouses too empty or too full.
 Balance stock so space is used wisely.
+
 ➢ Sell Stock Quickly → Move products faster with offers, bundles, or promotions. This
 avoids goods sitting too long.
+
 
 
