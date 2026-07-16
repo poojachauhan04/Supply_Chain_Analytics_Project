@@ -60,10 +60,7 @@ to identify shortages or surpluses.
 ## Phase 3: Dashboard (Power BI)
 Finally, we built an interactive dashboard in Power BI to present insights visually.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/536a10c7-8cd9-4362-bf66-16ab12730842" width="100%" alt="Supply Chain Performance Dashboard" />
-</div>
-
+<img width="654" height="365" alt="image" src="https://github.com/user-attachments/assets/965b2da2-1ba6-4d06-b632-2f3efcda8192" />
 
 
 ## 💡 Business Recommendations
