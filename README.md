@@ -83,4 +83,4 @@ avoid overstocking. Plan purchases carefully.
 ➢ **Lower Risks** → Reduce damaged goods, returns, and stockouts by improving
 packaging, quality checks, and backup stock.
 
-# 👋 Thank you for visiting my repository!
+## 👋 Thank you for visiting my repository!
