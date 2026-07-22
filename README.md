@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project focusing on evaluating supply chain efficiency, identifying logistics bottlenecks, and optimizing inventory management using **Python, SQL,** and **Power BI**.
 
-![Supply Chain Performance & Operational Efficiency Analysis](assets/supply_chain_banner.svg)
+![Supply Chain Performance & Operational Efficiency Analysis](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/supply_chain_banner.svg)
 --
 ## 📌 Project Overview
 
