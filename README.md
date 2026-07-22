@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project focusing on evaluating supply chain efficiency, identifying logistics bottlenecks, and optimizing inventory management using **Python, SQL,** and **Power BI**.
 
-https://claude.ai/public/artifacts/22e00e64-3dd4-4f3a-be55-430e5e0744b2
+![Supply Chain Performance & Operational Efficiency Analysis](supply_chain_banner.svg)
 --
 ## 📌 Project Overview
 
