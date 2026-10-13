@@ -62,7 +62,7 @@ to identify shortages or surpluses.
 ## Phase 3: Dashboard (Power BI)
 Finally, we built an interactive dashboard in Power BI to present insights visually.
 
-<img width="446" height="249" alt="image" src="https://github.com/user-attachments/assets/3619d7ac-8f0c-4f0c-b4a9-0188cbddaac2" />
+<img width="575" height="325" alt="image" src="https://github.com/user-attachments/assets/74cdcc78-473a-4880-a90c-29e9077d1991" />
 
 ## 💡 Business Recommendations
 
